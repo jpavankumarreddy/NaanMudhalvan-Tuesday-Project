@@ -21,7 +21,7 @@ This is a simple Bus Reservation System built using Python and Django framework.
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/bus-reservation-system.git
+git clone https://github.com/jpavankumarreddy/NaanMudhalvan-Tuesday-Project.git
 ```
 
 2. Navigate to the project directory:
